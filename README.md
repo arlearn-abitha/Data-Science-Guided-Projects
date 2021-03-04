@@ -1,2 +1,2 @@
 # Data-Science-Projects
-This repository contains all of my guided project files
+This repository contains all of my data science project files
